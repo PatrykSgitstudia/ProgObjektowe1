@@ -1,0 +1,6 @@
+D:\patryks\cw5,67\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe.config
+D:\patryks\cw5,67\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.exe
+D:\patryks\cw5,67\Biblioteka\Biblioteka\Biblioteka\bin\Debug\Biblioteka.pdb
+D:\patryks\cw5,67\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.csprojResolveAssemblyReference.cache
+D:\patryks\cw5,67\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.exe
+D:\patryks\cw5,67\Biblioteka\Biblioteka\Biblioteka\obj\Debug\Biblioteka.pdb
